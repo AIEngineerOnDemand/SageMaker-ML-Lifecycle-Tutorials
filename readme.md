@@ -1,4 +1,4 @@
-[Deploy a Machine Learning Model to a Real-Time Inference Endpoint](#file:Deploy%20a%20Machine%20Learning%20Model%20to%20a%20Real-Time%20Inference%20Endpoint.ipynb-context)
+# [Deploy a Machine Learning Model to a Real-Time Inference Endpoint](Deploy%20a%20Machine%20Learning%20Model%20to%20a%20Real-Time%20Inference%20Endpoint.ipynb)
 
 This document outlines the steps involved in deploying a machine learning model to a real-time inference endpoint using AWS SageMaker. The process is divided into several key sections, each focusing on a critical aspect of the deployment process.
 
