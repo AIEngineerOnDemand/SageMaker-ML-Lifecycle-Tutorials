@@ -11,7 +11,6 @@
 
 [Open Notebook](Deploy%20a%20Machine%20Learning%20Model%20to%20a%20Real-Time%20Inference%20Endpoint.ipynb)
 
-# [Build and Train a Machine Learning Model Locally](#file:Build%20and%20Train%20a%20Machine%20Learning%20Model%20Locally.ipynb-context)
 This document outlines the steps involved in deploying a machine learning model to a real-time inference endpoint using AWS SageMaker. The process is divided into several key sections, each focusing on a critical aspect of the deployment process.
 
 ### 1.1 Automatic Creation of an S3 Bucket
@@ -76,7 +75,8 @@ This document outlines the steps involved in deploying a machine learning model 
 
 ## 2. Build and Train a Machine Learning Model Locally
 
-[Open Notebook](#file:Build%20and%20Train%20a%20Machine%20Learning%20Model%20Locally.ipynb-context)
+[Open Notebook](#file:Build%20and%20Train%20a%20Machine%20Learning%20Model%20Locally.ipynb)
+
 This section will be updated with content relevant to building and training a machine learning model locally.
 
 
